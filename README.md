@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Anti-Forensics/tuckerlsb">
-    <img src="assets/images/tuckerlsb.png" alt="TuckerLSB banner" width="900">
-  </a>
-</p>
+[![TuckerLSB banner](./assets/images/tuckerlsb.png)](https://github.com/Anti-Forensics/tuckerlsb)
 
 Usage:
 

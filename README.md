@@ -1,4 +1,4 @@
-[![TuckerLSB banner](/assets/images/tuckerlsb-anti-forensics.com.png)](https://github.com/Anti-Forensics/tuckerlsb)
+[![TuckerLSB banner](/tuckerlsb-anti-forensics.com.png)](https://github.com/Anti-Forensics/tuckerlsb)
 
 Usage:
 

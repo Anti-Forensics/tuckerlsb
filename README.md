@@ -1,3 +1,5 @@
+![TuckerLSB banner](assets/images/tuckerlsb.png)
+
 Usage:
 
 This script will embed a hidden message into a specified output PNG file.  
